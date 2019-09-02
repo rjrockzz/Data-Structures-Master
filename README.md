@@ -14,6 +14,8 @@
 See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20vs%20Arrays) for more.<br><br><br>
 2. [Linked Lists Traversal](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsTraversal.c)<br><br>
     Simply printing out the linked lists element using while loop until last node is encountered.
-3. [Linked Lists Skeletal Structure](https://github.com/rjrockzz/Data-Structures-Master/blob/master/SimpleLinkedLists.c)<br><br>
-    Simply printing out the linked lists element using while loop until last node is encountered.
-<br>
+    <br>
+3. [Linked Lists Insertion](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsInsertions.c)<br><br>
+     - **At front - 4 step process:**<br>
+     - **After given node - 5 step process:**<br>
+     - **At end - 6 step process:**<br>
