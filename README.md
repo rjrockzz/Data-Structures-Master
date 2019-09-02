@@ -16,4 +16,4 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
     Simply printing out the linked lists element using while loop until last node is encountered.
 <br>
   3. Linked Lists Insertion<br><br>
-    - [Front of list( 4 step process)](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsTraversal.c)
+     - [Front of list 4 step process](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsTraversal.c)
