@@ -18,4 +18,4 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 3. [Linked Lists Insertion](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsInsertions.c)<br><br>
      - **At front - 4 step process:**<br>
      - **After given node - 5 step process:**<br>
-     - **At end - 6 step process:**<br>
+     - **At end - 6 step process:**<br>[See More](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20Insertion%20Details)
