@@ -22,5 +22,5 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
     <br><br>
 4. [Linked Lists Deletion](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsDeletion.c)<br><br>
   - **Keywise**<br>
-  - **Positionwise: **[See code](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20Deletion%20Details)<br>
+  - **Positionwise** : [See code](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20Deletion%20Details)<br>
         [See More](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20Deletion%20Details)
