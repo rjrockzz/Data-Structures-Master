@@ -21,4 +21,4 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
      - **At end - 6 step process:**<br>[See More](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20Insertion%20Details)
     <br><br>
 4. [Linked Lists Deletion](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsDeletion.c)<br><br>
-        <br>[See](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20Deletion%20Details)
+        [See More](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20Deletion%20Details)
