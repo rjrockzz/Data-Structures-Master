@@ -1,0 +1,9 @@
+*** Iterative-
+
+1) Initialize count as 0 
+2) Initialize a node pointer, current = head.
+3) Do following while current is not NULL
+     a) current = current -> next
+     b) count++;
+4) Return count 
+
