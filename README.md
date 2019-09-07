@@ -27,6 +27,6 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 5. [Linked Lists Length](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20Lists%20Length)<br><br>
     - Can be performed [Iteratively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsNodesIteratively.c) or [Recursively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsNodesRecursively.c)
     <br><br>
-5. Reversed Linked Lists <br>
+5. [Reversed Linked Lists](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20Lists%20Reversal%20Details) <br><br>
     - Can be performed [Iteratively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/ReverseLinkedListIterative.c) or [Recursively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsNodesRecursively.c)
     <br><br>
