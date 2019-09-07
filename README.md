@@ -3,7 +3,7 @@
 ### Every Popular Data Structure will be covered. 
 
 ##### **__codιng вloĸe__**<br>
-# Linked Lists
+# Linked Lists<br>
 1. [Linked Lists Skeletal Structure](https://github.com/rjrockzz/Data-Structures-Master/blob/master/SimpleLinkedLists.c)<br><br>
     - **Advantages over Arrays:**
 * Dynamic size
