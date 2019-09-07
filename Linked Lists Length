@@ -7,3 +7,8 @@
      b) count++;
 4) Return count 
 
+*** Recursive
+
+int getCount(head)
+1) If head is NULL, return 0.
+2) Else return 1 + getCount(head->next) 
