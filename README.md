@@ -2,7 +2,7 @@
 ### A Data-Structures implementation session in C , C++ , Java randomly.
 ### Every Popular Data Structure will be covered. 
 
-##### **__coding bloke__**
+##### **__codιng вloĸe__**
 1. [Linked Lists Skeletal Structure](https://github.com/rjrockzz/Data-Structures-Master/blob/master/SimpleLinkedLists.c)<br><br>
     - **Advantages over Arrays:**
 * Dynamic size
@@ -25,4 +25,8 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
   - **Positionwise** : [See code](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsDeletionPosition.c)<br>
 <br><br>
 5. [Linked Lists Length](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20Lists%20Length)<br><br>
-  - Can be performed [Iteratively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsNodesIteratively.c) or [Recursively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsNodesRecursively.c)
+    - Can be performed [Iteratively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsNodesIteratively.c) or [Recursively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsNodesRecursively.c)
+    <br><br>
+5. Reversed Linked Lists <br>
+    - Can be performed [Iteratively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/ReverseLinkedListIterative.c) or [Recursively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsNodesRecursively.c)
+    <br><br>
