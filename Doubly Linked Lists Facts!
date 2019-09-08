@@ -32,3 +32,11 @@ Set the next pointer of this new_node as the next_node, new_node->next = next_no
 If the previous node of the new_node is not NULL, then set the next pointer of this previous node as 
 new_node, new_node->prev->next = new_node
 Else, if the prev of new_node is NULL, it will be the new head node. So, make (*head_ref) = new_node.
+
+
+*** Deletion Algorithm
+Let the node to be deleted is del.
+1) If node to be deleted is head node, then change the head pointer to next current head.
+2) Set next of previous to del, if previous to del exists.
+3) Set prev of next to del, if next to del exists.
+filter_none
