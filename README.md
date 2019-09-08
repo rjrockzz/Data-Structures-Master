@@ -37,6 +37,8 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 ## Circular Linked Lists! : [FACTS!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Circular%20Linked%20Lists%20Facts)
 <br>1. [Insertion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListInsertion.c)<br><br>
     2. [Traversal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListTraversal.c)<br><br>
+    3. [Deletion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListsDeletion.c)<br><br>
+    4. [Reversal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListsReversal.c)<br><br>
 
 ## Doubly Linked Lists! : [FACTS!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Doubly%20Linked%20Lists%20Facts!)
 <br>1. [Insertion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsInsertion.c)<br><br>
