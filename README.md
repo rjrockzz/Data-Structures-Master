@@ -39,3 +39,4 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
     2. [Traversal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListTraversal.c)<br><br>
 
 ## Doubly Linked Lists! : [FACTS!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Doubly%20Linked%20Lists%20Facts!)
+<br>1. [Insertion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsInsertion.c)<br><br>
