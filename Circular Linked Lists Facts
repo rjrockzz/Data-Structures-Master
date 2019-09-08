@@ -39,3 +39,21 @@ Insertion in an empty list
 Insertion at the beginning of the list
 Insertion at the end of the list
 Insertion in between the nodes
+
+*** Deletion Algorithm
+
+Case 1: List is empty.
+
+If the list is empty we will simply return.
+
+Case 2:List is not empty
+
+- If the list is not empty then we define two pointers curr and prev and initialize the pointer curr with the head node.
+- Traverse the list using curr to find the node to be deleted and before moving curr to next node, everytime set prev = curr.
+- If the node is found, check if it is the only node in the list. If yes, set head = NULL and free(curr).
+- If the list has more than one node, check if it is the first node of the list. Condition to check this( curr == head).
+- If yes, then move prev until it reaches the last node. After prev reaches the last node, set head = head -> next and
+  prev -> next = head. Delete curr.
+- If curr is not first node, we check if it is the last node in the list. Condition to check this is (curr -> next == head).
+- If curr is the last node. Set prev -> next = head and delete the node curr by free(curr).
+- If the node to be deleted is neither the first node nor the last node, then set prev -> next = temp -> next and delete curr.
