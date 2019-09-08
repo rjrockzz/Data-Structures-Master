@@ -31,3 +31,4 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 5. [Reversed Linked Lists](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20Lists%20Reversal%20Details) <br><br>
     - Can be performed [Iteratively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/ReverseLinkedListIterative.c) or [Recursively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsReversalRecursively.c)
     <br><br>
+6. [Rotating a Linked List](https://github.com/rjrockzz/Data-Structures-Master/blob/master/RotateLinkedLists.c)<br><br>
