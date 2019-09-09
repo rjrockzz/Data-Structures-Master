@@ -46,6 +46,6 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
     3. [Reverseal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsReverse.c)<br><br>
 <br>
 # :hibiscus: Stacks
-<br>1. [Insertion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsInsertion.c)<br><br>
-    2. [Deletion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsDeletion.c)<br><br>
-    3. [Reverseal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsReverse.c)<br><br>
+<br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsInsertion.c)<br>
+    2. [Implementation using Structure and Array!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsDeletion.c)<br>
+    3. [Implementation using Linked Lists!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsReverse.c)<br>
