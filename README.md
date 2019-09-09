@@ -48,4 +48,4 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 # :hibiscus: Stacks
 <br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Stack%20Fact!)<br>
     2. [Implementation using Structure and Array!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/StackArraysWithStruct.c)<br>
-    3. [Implementation using Linked Lists!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsReverse.c)<br>
+    3. [Implementation using Linked Lists!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/StackUsingLinkedLists.c)<br>
