@@ -46,7 +46,8 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
     3. [Reverseal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsReverse.c)<br><br>
 <br>
 # :hibiscus: Stacks
-<br>1. [Stack Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Stack%20Fact!)<br><br>
-    2. **Stack Implementation :**<br>
-                - [Struct n Arrays ~](https://github.com/rjrockzz/Data-Structures-Master/blob/master/StackArraysWithStruct.c)<br>
-                - [Linked Lists ~]
+<br>
+1. [Stack Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Stack%20Fact!)<br><br>
+2. **Stack Implementation :**<br>
+    - [Struct n Arrays ~](https://github.com/rjrockzz/Data-Structures-Master/blob/master/StackArraysWithStruct.c)<br>
+    - [Linked Lists ~]
