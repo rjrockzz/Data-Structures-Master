@@ -35,17 +35,17 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 7. [Generic Linked List](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Generics%20Linked%20List%20Details) : [See Code](https://github.com/rjrockzz/Data-Structures-Master/blob/master/GenericsLinkedLists.c)<br><br>
 
 ## Circular Linked Lists! : [FACTS!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Circular%20Linked%20Lists%20Facts)
-<br>1. [Insertion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListInsertion.c)<br><br>
-    2. [Traversal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListTraversal.c)<br><br>
-    3. [Deletion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListsDeletion.c)<br><br>
-    4. [Reversal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListsReversal.c)<br><br>
+<br>1. [Insertion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListInsertion.c)<br>
+    2. [Traversal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListTraversal.c)<br>
+    3. [Deletion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListsDeletion.c)<br>
+    4. [Reversal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/CircularLinkedListsReversal.c)<br>
 
 ## Doubly Linked Lists! : [FACTS!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Doubly%20Linked%20Lists%20Facts!)
-<br>1. [Insertion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsInsertion.c)<br><br>
-    2. [Deletion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsDeletion.c)<br><br>
-    3. [Reverseal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsReverse.c)<br><br>
+<br>1. [Insertion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsInsertion.c)<br>
+    2. [Deletion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsDeletion.c)<br>
+    3. [Reverseal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsReverse.c)<br>
 <br>
 # :hibiscus: Stacks
-<br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsInsertion.c)<br>
-    2. [Implementation using Structure and Array!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsDeletion.c)<br>
+<br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Stack%20Fact!)<br>
+    2. [Implementation using Structure and Array!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/StackArraysWithStruct.c)<br>
     3. [Implementation using Linked Lists!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsReverse.c)<br>
