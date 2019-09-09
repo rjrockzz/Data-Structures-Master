@@ -21,10 +21,10 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
      - **After given node - 5 step process:**<br>
      - **At end - 6 step process:**<br>[See More](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20Insertion%20Details)
     <br><br>
-4. [Linked Lists Deletion](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20Deletion%20Details)<br><br>
+4. [Linked Lists Deletion](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20List%20Deletion%20Details)<br>
   - **Keywise** : [See Code](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsDeletion.c)<br>
   - **Positionwise** : [See code](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsDeletionPosition.c)<br>
-<br><br>
+<br>
 5. [Linked Lists Length](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Linked%20Lists%20Length)<br><br>
     - Can be performed [Iteratively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsNodesIteratively.c) or [Recursively](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LinkedListsNodesRecursively.c)
     <br><br>
