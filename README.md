@@ -45,4 +45,4 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
     2. [Deletion!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsDeletion.c)<br><br>
     3. [Reverseal!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/DoublyLinkedListsReverse.c)<br><br>
 <br>
-# :hibiscus:Stacks<br>
+# :hibiscus: Stacks<br><br>
