@@ -47,7 +47,6 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 <br>
 # :hibiscus: Stacks
 <br>
-1  [Stack Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Stack%20Fact!)<br><br>
-2  *Stack Implementation :*<br>
-    - [Struct n Arrays ~](https://github.com/rjrockzz/Data-Structures-Master/blob/master/StackArraysWithStruct.c)<br>
-    - [Linked Lists ~]
+1.  [Stack Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Stack%20Fact!)<br>
+<br>2. Stacks Implementation<br><br>
+    - **Using Structure n Arrays:** - [Code](https://github.com/rjrockzz/Data-Structures-Master/blob/master/StackArraysWithStruct.c)<br>
