@@ -51,4 +51,5 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 
 <br><br>
 # :blossom: Queues
-<br>1. [Implementation using Structure and Array!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/QueuesUsingArrays.c)<br>
+<br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Queue%20Facts!)<br>
+    2. [Implementation using Structure and Array!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/QueuesUsingArrays.c)<br>
