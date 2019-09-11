@@ -23,3 +23,7 @@ two processes. Examples include IO Buffers, pipes, file IO, etc.
 First Out) principle and the last position is connected back to the first position to make a circle.
 It is also called ‘Ring Buffer’.
 
+*** Priority Queue
+-> Every item has a priority associated with it.
+-> An element with high priority is dequeued before an element with low priority.
+-> If two elements have the same priority, they are served according to their order in the queue.
