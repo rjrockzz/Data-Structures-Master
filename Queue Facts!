@@ -18,3 +18,8 @@ in following kind of scenarios.
 1) When a resource is shared among multiple consumers. Examples include CPU scheduling, Disk Scheduling.
 2) When data is transferred asynchronously (data not necessarily received at same rate as sent) between
 two processes. Examples include IO Buffers, pipes, file IO, etc.
+
+*** Circular Queue is a linear data structure in which the operations are performed based on FIFO (First In
+First Out) principle and the last position is connected back to the first position to make a circle.
+It is also called ‘Ring Buffer’.
+
