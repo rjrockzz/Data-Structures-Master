@@ -62,7 +62,7 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
         - Preorder (Root, Left, Right) : 1 2 4 5 3<br>
         - Postorder (Left, Right, Root) : 4 5 2 3 1<br><br>
     4. [BFS Tree Traversals!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LevelOrderBFS.c)<br>
-    5. [Tree Height!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/TreeHeight.c)<br>
+    5. [Nodes at distance k!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/TreeNodeDistance.c)<br>
 # :rose: Binary Search Tree
 
 # :sunflower: Heap
