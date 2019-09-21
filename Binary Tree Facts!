@@ -115,3 +115,24 @@ A degenerate (or pathological) tree A Tree where every internal node has one chi
      30
       \
       40     
+
+*** What is Handshaking Lemma?
+
+Handshaking lemma is about undirected graph. In every finite undirected graph number of vertices with odd degree is always even. The handshaking lemma is a consequence of the degree sum formula (also sometimes called the handshaking lemma)
+ \sum_{u \epsilon v} deg(v) = 2\left  | E \right | 
+
+How is Handshaking Lemma useful in Tree Data structure?
+Following are some interesting facts that can be proved using Handshaking lemma.
+
+1) In a k-ary tree where every node has either 0 or k children, following property is always true.
+
+  L = (k - 1)*I + 1
+Where L = Number of leaf nodes
+      I = Number of internal nodes  
+      
+ 
+2) In Binary tree, number of leaf nodes is always one more than nodes with two children.
+
+   L = T + 1
+Where L = Number of leaf nodes
+      T = Number of internal nodes with two children 
