@@ -57,7 +57,7 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 # :cherry_blossom: Binary Tree
 <br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Binary%20Tree%20Facts!)
 <br>2. [Intro!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/BinaryIntro.c)<br>
-    3. [DFS Traversals!]()<br>
+    3. [DFS Traversals!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/TraversalsDFS.c)<br>
             *_(a) Inorder (Left, Root, Right) : 4 2 5 1 3<br>
               (b) Preorder (Root, Left, Right) : 1 2 4 5 3<br>
               (c) Postorder (Left, Right, Root) : 4 5 2 3 1_*<br>
