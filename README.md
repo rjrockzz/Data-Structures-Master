@@ -55,7 +55,7 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
     2. [Implementation using Structure and Array!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/QueuesUsingArrays.c)<br>3. [Implementation using Linked Lists!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/QueuesUsingLinkedLists.c)<br>
     
 # :cherry_blossom: Binary Tree
-
+<br>1. [Intro!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/BinaryIntro.c)<br>
 # :rose: Binary Search Tree
 
 # :sunflower: Heap
