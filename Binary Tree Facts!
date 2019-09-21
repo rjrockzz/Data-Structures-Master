@@ -118,10 +118,11 @@ A degenerate (or pathological) tree A Tree where every internal node has one chi
 
 *** What is Handshaking Lemma?
 
-Handshaking lemma is about undirected graph. In every finite undirected graph number of vertices with odd degree is always even. The handshaking lemma is a consequence of the degree sum formula (also sometimes called the handshaking lemma)
- \sum_{u \epsilon v} deg(v) = 2\left  | E \right | 
+Handshaking lemma is about undirected graph. In every finite undirected graph number of vertices with odd 
+degree is always even. The handshaking lemma is a consequence of the degree sum formula (also sometimes
+called the handshaking lemma)
 
-How is Handshaking Lemma useful in Tree Data structure?
+
 Following are some interesting facts that can be proved using Handshaking lemma.
 
 1) In a k-ary tree where every node has either 0 or k children, following property is always true.
@@ -136,3 +137,17 @@ Where L = Number of leaf nodes
    L = T + 1
 Where L = Number of leaf nodes
       T = Number of internal nodes with two children 
+
+
+*** Uses of Inorder
+In case of binary search trees (BST), Inorder traversal gives nodes in non-decreasing order.
+To get nodes of BST in non-increasing order, a variation of Inorder traversal where Inorder 
+traversal s reversed can be used.
+
+*** Uses of Preorder
+Preorder traversal is used to create a copy of the tree. Preorder traversal is also used to 
+get prefix expression on of an expression tree.
+
+*** Uses of Postorder
+Postorder traversal is used to delete the tree. Please see the question for deletion of
+tree for details. Postorder traversal is also useful to get the postfix expression of an expression tree.
