@@ -66,7 +66,7 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 # :rose: Binary Search Tree
 
 # :sunflower: Heap
-
+<br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Heap%20Facts!)
 # :bouquet: Hashing
 
 # :chart: Graphs
