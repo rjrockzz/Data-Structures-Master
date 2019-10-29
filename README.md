@@ -69,5 +69,6 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
 <br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Heap%20Facts!)
 # :bouquet: Hashing
 <br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Hashing%20Facts!)
+<br>2. [Hash with Chaining!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/HashWithChaining.c)
 # :chart: Graphs
 <br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Graphs%20Facts!.md)
