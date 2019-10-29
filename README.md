@@ -64,9 +64,10 @@ See [Linked List vs Arrays](https://github.com/rjrockzz/Data-Structures-Master/b
     4. [BFS Tree Traversals!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/LevelOrderBFS.c)<br>
     5. [Nodes at distance k!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/TreeNodeDistance.c)<br>
 # :rose: Binary Search Tree
-
+<br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Binary%20Search%20Tree%20Facts!)
 # :sunflower: Heap
 <br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Heap%20Facts!)
 # :bouquet: Hashing
-
+<br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Hashing%20Facts!)
 # :chart: Graphs
+<br>1. [Facts!](https://github.com/rjrockzz/Data-Structures-Master/blob/master/Graphs%20Facts!.md)
